@@ -1,0 +1,84 @@
+*{
+    padding: 0px;
+}
+
+
+.main-cnt{
+    height: 90vh;
+    width: 20vw;
+    border: 2px solid grey;
+    background-color: white;
+    margin: auto;
+}
+
+.goa{
+    height: 200px;
+    width: 100%;
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/goa-c1-img.png);
+    background-size: cover ;
+    background-repeat: no-repeat;
+
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.about{
+    height: 130px;
+    width: 90%;
+    /* border: 2px solid green; */
+    margin-left: 20px;
+}
+
+p{
+    color: grey;
+    font-size: 13px;
+}
+
+.more{
+    height: 90px ;
+    width: 90%;
+    /* border: 2px solid blue; */
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pic1{
+    height: 90px;
+    width: 30%;
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/goa-more1-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+}
+
+.pic2{
+    height: 90px;
+    width: 30%;
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/goa-more2-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+}
+
+.pic3{
+    height: 90px;
+    width: 30%;
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/goa-more3-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+}
+
+.vid{
+    height: 90px ;
+    width: 90%;
+    /* border: 2px solid blue; */
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
